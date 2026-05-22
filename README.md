@@ -46,6 +46,8 @@ Here is the folder structure of this app.
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
 modern-portfolio/
+  |- .claude/
+    |-- settings.local.json
   |- components/
     |-- Avatar.jsx
     |-- Bulb.jsx
