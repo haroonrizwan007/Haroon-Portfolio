@@ -31,7 +31,7 @@ const serviceData = [
 
 const ServiceSlider = () => {
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pb-4">
       {serviceData.map((item, i) => (
         <div
           key={i}
